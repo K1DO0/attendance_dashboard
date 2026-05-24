@@ -2,7 +2,7 @@
 // OPTI-WORK SOLUTIONS ATTENDANCE
 // Replace this URL after you deploy code.gs as a Google Apps Script Web App.
 // ===============================
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzKxQXvuoXKNYO8xBZiGk1u69nLbhoPbjYW88elbjkWm67f4s7-WhoI_AFuFV0poNxYXw/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwrju8O-6Tf0AEmFe-qsXlXTi1h_XSkdq6ZNYI6KyY6JwCHd2-khOcSe8CwDdRiIbt4nQ/exec';
 
 const state = {
   agent: JSON.parse(localStorage.getItem('optiwork_agent') || 'null'),
